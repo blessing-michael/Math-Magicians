@@ -1,13 +1,13 @@
 import React from 'react';
 import CalculatorButtons from './calculatorButtons';
 import CalculatorDisplay from './CalculatorDisplay';
-import '../styles/style.css'
+import '../styles/style.css';
 
 const Calculator = () => (
   <div className="calculator-container">
-  <CalculatorDisplay />
+    <CalculatorDisplay />
     <CalculatorButtons />
-   
+
   </div>
 );
 
