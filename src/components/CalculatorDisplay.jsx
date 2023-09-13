@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 const CalculatorDisplay = ({ displayValue }) => (
   <>
     <h2 className="intro-text">Your Perfect Math Calculator</h2>
-    <input type="text" value={displayValue} style={{ color: 'white' }} disabled />
+    <input type="text" value={displayValue} style={{ color: 'whitesmoke' }} disabled />
   </>
 );
 

@@ -38,7 +38,7 @@ const CalculatorButtons = ({ handleClickedButton }) => {
           type="button"
           className={`grid-item ${button.class}`}
           onClick={() => handleClick(button.label)}
-          style={activeButton === button.label ? { backgroundColor: 'purple' } : {}}
+          style={activeButton === button.label ? { backgroundColor: 'darkmagenta' } : {}}
         >
           {button.label}
         </button>
