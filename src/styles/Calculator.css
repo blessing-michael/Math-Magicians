@@ -1,0 +1,46 @@
+.calc-container {
+    width: 480px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  h2 {
+    font-family:sans-serif;
+    font-size: 1rem;
+    text-align: center;
+  }
+  
+  .all-btns {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  }
+  
+  .all-btns .grid-item:nth-child(4n),
+  .all-btns .grid-item:nth-child(19) {
+    background-color: hsl(27, 87%, 63%);
+  }
+  
+  input[type="text"] {
+    padding: 1rem;
+    text-align: right;
+    font-family:  sans-serif;
+    font-size: 2rem;
+    background-color: hsl(233, 4%, 58%);
+  }
+  
+  input[type="text"]::placeholder {
+    color: whitesmoke;
+  }
+  
+  button {
+    padding: 1rem;
+    outline: none;
+    border: 0.5px solid hsl(231, 3%, 57%);
+    font-family:  sans-serif;
+    font-size: 1rem;
+  }
+  
+  .span-2 {
+    grid-column: span 2;
+  }
