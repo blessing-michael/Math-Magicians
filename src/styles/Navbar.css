@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: grey;
+  padding: 1rem 2rem;
+ 
+  margin: 0 auto;
+ 
+  box-shadow: 0 4px 14px 0 rgba(70, 70, 70, 0.38);
+}
+
+.nav-menu {
+  font-size: 1.4rem;
+  display: flex;
+  list-style: none;
+  gap: 2rem;
+}
