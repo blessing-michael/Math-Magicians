@@ -94,6 +94,12 @@ To run the project, execute the following command:
 - Twitter: [@toonmystory](https://twitter.com/toonmystory)
 - LinkedIn: [Blessing Asuquo](https://www.linkedin.com/in/blessing-asuquo-4509981a2/)
 
+👤 **Esmatullah Qadeemi**
+
+- GitHub: [@githubhandle](https://github.com/Esmatullah12)
+- Twitter: [@twitterhandle](https://twitter.com/Esmatullah173)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/esmatullah-qadeemi-b9951821b/)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
