@@ -3,7 +3,7 @@ import { render } from '@testing-library/react';
 import DisplayQuote from '../../components/displayQuote';
 
 test('renders loader when isLoading is true', () => {
-  const { container } = render(<DisplayQuote />);
+  const { container } = render(<DisplayQuote isLoading />);
   expect(container).toMatchSnapshot();
 });
 
