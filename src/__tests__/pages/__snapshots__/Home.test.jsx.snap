@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Home Page is rendered and matches the snapshot 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <h2
+      class="welcome"
+    >
+      Welcome to Our page!
+    </h2>
+    <p
+      class="home-p"
+    >
+      Are you a Math Magician? Practice a variety of math skills: addition, subtraction, multiplication, and division using our free webpage. Math magicians allows students to get instant solutions to all kinds of math problems.
+    </p>
+    <p
+      class="home-p"
+    >
+      If you would like to create your own math expressions, here are some symbols that the calculator understands:
+      <br />
+      + (Addition)
+      <br />
+      - (Subtraction)
+      <br />
+      * (Multiplication)
+      <br />
+      / (Division)
+    </p>
+  </div>
+</div>
+`;
